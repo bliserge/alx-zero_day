@@ -1,1 +1,1 @@
-description of the repository
+description of the whole repository
